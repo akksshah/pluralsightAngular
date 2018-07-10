@@ -1,3 +1,5 @@
+## Following Deborah Kurata pluralsight course getting started with Angular
+
 # Angular-Getting Started
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
 
